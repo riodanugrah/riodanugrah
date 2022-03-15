@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Full-Stack, UI/UX Design, & Data Science
+- 💬 Another Portofolio :
+    - https://www.behance.net/riodanugrah
+    - https://dribbble.com/riodanugrah
+    
+- 📫 How to reach me: riodanugrah@naver.com
 <!--
 **riodanugrah/riodanugrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
